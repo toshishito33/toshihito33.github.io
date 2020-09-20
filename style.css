@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.wrap {
+    overflow: hidden;
+}
+
 .h-box {
     text-align: center;
 }
